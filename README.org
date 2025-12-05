@@ -20,12 +20,6 @@ cryptographic operations has comprehensive documentation and associated test
 cases for those who want to learn and understand the mechanics and internal
 working of a HD wallet.
 
-** Related
-
-- [[https://github.com/volodymyrprokopyuk/go-blockchain][Build a blockchain from scratch in Go with gRPC]] \\
-  /A foundational and practical guide for effectively learning and progressively
-  building a blockchain from scratch in Go with gRPC/
-
 ** Contents
 
   [[/hdwallet/start.org][Getting started]]
